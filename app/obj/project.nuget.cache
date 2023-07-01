@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "dgSpecHash": "etT/hctlWZHEKWEUdeWpwP01MZq+mvtSguAkNcSklY9SoWIlOp26QeLeesiyU0byDYKe/Iki3AtY9Bmgslygnw==",
+  "success": true,
+  "projectFilePath": "/projects/s2i-dotnetcore-ex/app/app.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+}
